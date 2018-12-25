@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Political parties",
-    "Representation and accountability",
+    "Party politics",
+    "Political behavior",
     "Identity politics",
     "Political methodology"
   ]
@@ -36,7 +36,7 @@ weight = 5
 
 # 
 
-I am a Postdoctoral Fellow in the Identity and Conflict Lab (ICL) at the University of Pennsylvania. Starting Fall 2019, I will be starting as an Assistant Professor of Political Science at the University of Pittsburgh.
+I am a Postdoctoral Fellow in the Identity and Conflict Lab (ICL) at the University of Pennsylvania. Starting Fall 2019, I will join the University of Pittsburgh as an Assistant Professor of Political Science.
 
 In my book project, *Severed Connections: Political Parties and Democratic Representation in Africa*, I investigate how political parties and the nature of candidate selection institutions influence the relationship between elected representatives and their constituents.
 
