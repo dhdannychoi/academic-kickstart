@@ -38,7 +38,7 @@ weight = 5
 
 I am a Postdoctoral Fellow in the Identity and Conflict Lab (ICL) at the University of Pennsylvania. Starting Fall 2019, I will join the University of Pittsburgh as an Assistant Professor of Political Science.
 
-In my book project, *Severed Connections: Political Parties and Democratic Representation in Africa*, I investigate how political parties and the nature of candidate selection institutions influence the relationship between elected representatives and their constituents.
+My book project, **_Severed Connections: Political Parties and Democratic Representation in Africa_**, investigates how political parties and the nature of candidate selection institutions influence the relationship between elected representatives and their constituents in new democracies.
 
-​My research has been supported by the Korea Foundation for Advanced Studies (KFAS), the Institute for International Studies (IIS), Center for African Studies (CAS), and the Peder Sather Center for Advanced Study at UC Berkeley,  and the Research Council of Norway (RCN). 
+​My research has been supported by the Institute for International Studies (IIS), Center for African Studies (CAS), and the Peder Sather Center for Advanced Study at UC Berkeley, the Korea Foundation for Advanced Studies (KFAS), and the Research Council of Norway (RCN). 
  
