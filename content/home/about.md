@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Democratic representation",
     "Political parties",
+    "Representation and accountability",
     "Identity politics",
     "Political methodology"
   ]
