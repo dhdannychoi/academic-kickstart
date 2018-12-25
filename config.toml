@@ -303,7 +303,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "book project"
-  url = "#projects"
+  url = "#book_project"
   weight = 3
 
 [[menu.main]]
