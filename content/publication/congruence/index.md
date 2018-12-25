@@ -15,7 +15,7 @@ authors = ["Donghyun Danny Choi"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper"
