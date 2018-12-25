@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.dropbox.com/s/q85xupp9j47l043/ACGO_Rallies.pdf?dl=0"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
