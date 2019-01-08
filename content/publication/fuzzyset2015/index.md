@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1093/pan/mpu016"
+doi = "/10.1093/pan/mpu016"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
