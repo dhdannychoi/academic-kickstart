@@ -15,7 +15,7 @@ authors = ["Leonardo Arriola", "Donghyun Danny Choi", "Matthew Gichohi", "Kenned
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper"
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.dropbox.com/s/k3zriw46imaw52e/ACGO_Draft.pdf?dl=0"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
