@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Party politics",
+    "Representation",
     "Political behavior",
     "Identity politics",
     "Political methodology"
@@ -36,9 +36,9 @@ weight = 5
 
 # 
 
-I am a Postdoctoral Fellow in the Identity and Conflict Lab (ICL) at the University of Pennsylvania. Starting Fall 2019, I will join the University of Pittsburgh as an Assistant Professor of Political Science.
+I am a Postdoctoral Fellow in the Identity and Conflict Lab (PIC Lab) at the University of Pennsylvania, and a non-resident research associate at the Center on the Politics of Development (CPD) at UC Berkeley. Starting Fall 2019, I will join the University of Pittsburgh as an Assistant Professor of Political Science.
 
-My book project, **_Severed Connections: Political Parties and Democratic Representation in Africa_**, investigates how political parties and the nature of candidate selection institutions influence the relationship between elected representatives and their constituents in new democracies.
+My research focuses on democratic representation, political behavior, and identity politics. My book project, **_Severed Connections: Political Parties and Democratic Representation in Africa_**, investigates how political parties and the nature of candidate selection institutions influence the relationship between elected representatives and their constituents in new democracies.
 
 ​My research has been supported by the Institute for International Studies (IIS), Center for African Studies (CAS), and the Peder Sather Center for Advanced Study at UC Berkeley, the Korea Foundation for Advanced Studies (KFAS), and the Research Council of Norway (RCN). 
  
