@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ {name = "Identity and Conflict Lab", url=""},{ name = "University of Pennsylvania", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Choi.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Choi.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "dhchoi@sas.upenn.edu"
