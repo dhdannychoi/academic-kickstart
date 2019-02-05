@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Democratic representation",
-    "Political behavior",
+    "Political parties",
     "Identity politics",
     "Political methodology"
   ]
