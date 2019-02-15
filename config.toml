@@ -298,7 +298,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "cv"
-  url = "files/cv_jan2019.pdf"
+  url = "files/choi_cv.pdf"
   weight = 2
 
 [[menu.main]]
