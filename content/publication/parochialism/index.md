@@ -49,19 +49,19 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.dropbox.com/s/2feivi7psxk0q0d/CPS_PNAS.pdf?dl=0"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.dropbox.com/s/ggmyvi7i0z00kg7/intervention.mp4?dl=0"
+url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Supplementary Materials", url = "https://www.dropbox.com/s/t4q7eg99f02ntto/CPS_PNAS_Supplementary_Information.pdf?dl=0"}]
+# url_custom = [{name = "Supplementary Materials", url = ""}]
 
 # Digital Object Identifier (DOI)
 doi = ""
