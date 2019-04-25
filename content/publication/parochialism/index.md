@@ -18,7 +18,7 @@ authors = ["Donghyun Danny Choi", "Mathias Poertner", "Nicholas Sambanis"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted at *Proceedings of the National Academy of Sciences*"
+publication = "Conditionally Accepted at *Proceedings of the National Academy of Sciences*"
 publication_short = ""
 
 # Abstract and optional shortened version.
