@@ -1,6 +1,6 @@
 +++
 title = "Parochialism, Social Norms, and Discrimination against Immigrants"
-date = 2019-12-23T22:33:07-05:00
+date = 2018-12-23T22:33:07-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
