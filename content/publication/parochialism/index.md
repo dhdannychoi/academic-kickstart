@@ -15,7 +15,7 @@ authors = ["Donghyun Danny Choi", "Mathias Poertner", "Nicholas Sambanis"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Accepted at *Proceedings of the National Academy of Sciences*"
