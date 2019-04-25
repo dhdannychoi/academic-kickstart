@@ -1,6 +1,6 @@
 +++
 title = "Parochialism, Social Norms, and Discrimination against Immigrants"
-date = 2018-12-23T22:33:07-05:00
+date = 2019-12-23T22:33:07-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,14 +15,14 @@ authors = ["Donghyun Danny Choi", "Mathias Poertner", "Nicholas Sambanis"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Revise and resubmit at *Proceedings of the National Academy of Sciences*"
+publication = "Accepted at *Proceedings of the National Academy of Sciences*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Ingroup bias and outgroup prejudice are pervasive features of human behavior, motivating various forms of discrimination and conflict. In an era of increased cross-border migration, these innate tendencies exacerbate inter-group conflict between host populations and immigrant groups, raising the question of how conflict can be overcome. We address this question through a field intervention conducted in 31 cities across three German states, designed to measure assistance provided to strangers during everyday social interactions. This randomized trial found that cultural integration signaled by sharing social norms mitigates--but does not eliminate--bias against outgroups driven by perceptions of ethno-religious differences. Our results suggest that eliminating or suppressing ascriptive differences is not a necessary path to conflict reduction in multicultural societies; rather, achieving a shared understanding of civic behavior can form the basis of cooperation."
+abstract = "Ingroup bias and outgroup prejudice are pervasive features of human behavior, motivating various forms of discrimination and conflict. In an era of increased cross-border migration, these tendencies exacerbate inter-group conflict between native populations and immigrant groups, raising the question of how conflict can be overcome. We address this question through a large-scale field intervention conducted in 28 cities across three German states, designed to measure assistance provided to immigrants during everyday social interactions. This randomized trial found that cultural integration signaled through shared social norms mitigates -- but does not eliminate -- bias against immigrants driven by perceptions of religious differences. Our results suggest that eliminating or suppressing ascriptive (e.g. ethnic) differences is not a necessary path to conflict reduction in multicultural societies; rather, achieving a shared understanding of civic behavior can form the basis of cooperation."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
