@@ -1,5 +1,5 @@
 +++
-title = "Severed Connections: Political Parties and Democratic Representation in Africa"
+title = "Severed Connections: Intraparty Politics and Representation in Democratic Africa"
 date = 2018-12-23T22:33:07-05:00
 draft = false
 
