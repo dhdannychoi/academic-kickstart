@@ -15,10 +15,10 @@ authors = ["Donghyun Danny Choi", "Mathias Poertner", "Nicholas Sambanis"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Resubmitted to *Proceedings of the National Academy of Sciences*"
+publication = "Forthcoming at *Proceedings of the National Academy of Sciences*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = "Ingroup bias and outgroup prejudice are pervasive features of human 
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
