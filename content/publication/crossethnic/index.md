@@ -1,6 +1,6 @@
 +++
 title = "​​​Political Endorsements and Cross-Ethnic Voting in Africa"
-date = 2018-12-23T22:33:07-05:00
+date = 2019-05-03T22:33:07-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,7 +15,7 @@ authors = ["Leonardo Arriola", "Donghyun Danny Choi", "Matthew Gichohi"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper (Under Review)"
