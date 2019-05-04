@@ -1,6 +1,6 @@
 +++
 title = "The Business of Politics: Candidate Defection and Party Institutionalization in Africa"
-date = 2018-12-23T22:33:07-05:00
+date = 2019-05-03T22:33:07-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.dropbox.com/s/v6aen6wpdk8zk2r/ACDPRS_Defections.pdf?dl=0"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Supplementary Materials", url = "https://www.dropbox.com/s/mehou2hjhhwvngq/ACDPRS_SM.pdf?dl=0"}]
+#url_custom = [{name = "Supplementary Materials", url = "https://www.dropbox.com/s/mehou2hjhhwvngq/ACDPRS_SM.pdf?dl=0"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
