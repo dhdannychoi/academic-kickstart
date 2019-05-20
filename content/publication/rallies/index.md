@@ -1,5 +1,5 @@
 +++
-title = "​​​The Effect of Cross-Ethnic Outreach in Electoral Campaigns"
+title = "​​​The Effect of Cross-Ethnic Electoral Campaigns: Theory and Evidence from Kenya"
 date = 2019-05-03T22:33:07-05:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Leonardo Arriola", "Donghyun Danny Choi", "Matthew Gichohi", "Ken Op
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper (Under Review)"
+publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.

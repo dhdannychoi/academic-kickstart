@@ -41,4 +41,6 @@ I am a Postdoctoral Fellow in the Identity and Conflict Lab (PIC Lab) at the Uni
 My research focuses on democratic representation, political behavior, and identity politics, mostly in the developing world. My book project, **_Severed Connections: Intraparty Politics and Representation in Democratic Africa_**, investigates how political parties and the nature of candidate selection institutions influence the relationship between elected representatives and their constituents in new democracies.
 
 ​My research has been supported by the Institute for International Studies (IIS), Center for African Studies (CAS), and the Peder Sather Center for Advanced Study at UC Berkeley, the Korea Foundation for Advanced Studies (KFAS), and the Research Council of Norway (RCN). 
+
+You can reach me at dannychoi[at]pitt.edu
  
