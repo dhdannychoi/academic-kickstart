@@ -1,5 +1,5 @@
 +++
-title = "​​​The Effect of Cross-Ethnic Electoral Campaigns: Theory and Evidence from Kenya"
+title = "​​​Cross-Ethnic Campaign Outreach Triggers Group Threat in Ethnically Divided Societies"
 date = 2019-05-03T22:33:07-05:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "​How do campaign outreach strategies affect voter perceptions of non-coethnic candidates? Candidates competing for office in ethnically divided societies often seek to mobilize national support by reaching out to voters across ethnic cleavages. In this context, we argue that candidates may inadvertently dampen their support when personally campaigning among non-coethnic voters. Drawing on the logic of group threat, we claim that the physical presence of a candidate in a non-coethnic constituency heightens voters’ perceptions of intergroup competition. We corroborate this expectation by leveraging a natural experiment, exploiting the timing of an unscheduled campaign rally held by a presidential candidate in a non-coethnic constituency during the 2017 Kenyan elections. We find two results consistent with the logic of group threat: the rally decreased the candidate’s favorability among non-coethnic voters and increased the proportion of voters identifying in ethnic rather than national terms."
+abstract = "​ Are voters receptive to direct campaign appeals from non-coethnic candidates? Candidates competing for office in ethnically divided societies often seek to win national support by reaching out to voters from different groups. In this context, we argue that candidates may inadvertently dampen their support when personally campaigning among non-coethnic voters. Drawing on the logic of group threat, we claim that the physical presence of a candidate in a non-coethnic constituency, usually through campaign rallies, can heighten voters’ perceptions of intergroup competition. We corroborate this expectation by leveraging a natural experiment that exploits the timing of an unscheduled campaign rally held by a presidential candidate in a non-coethnic constituency during Kenya’s 2017 elections. The logic of group threat becomes evident when comparing survey respondents before and after the rally: the candidate’s post-rally favorability decreases among non-coethnic voters and the proportion of voters identifying in ethnic rather than national terms simultaneously increases."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
