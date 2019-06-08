@@ -15,7 +15,7 @@ authors = ["Leonardo Arriola", "Donghyun Danny Choi", "David Dow", "Matthew Gich
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper"
