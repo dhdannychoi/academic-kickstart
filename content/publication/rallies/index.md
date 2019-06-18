@@ -1,5 +1,5 @@
 +++
-title = "​​​Cross-Ethnic Campaign Outreach Triggers Group Threat in Ethnically Divided Societies"
+title = "​​​Do Voters Respond to Cross-Ethnic Campaigning in Divided Societies?"
 date = 2019-05-03T22:33:07-05:00
 draft = false
 

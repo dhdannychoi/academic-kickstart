@@ -1,5 +1,5 @@
 +++
-title = "​​​Ethnic Bias in Criminal Sentencing: Evidence from Kenya"
+title = "​​​Ethnicity and Judicial Decision-making: Evidence from the Kenyan High Courts"
 date = 2019-05-03T22:33:07-05:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "​Do judicial outcomes depend on judicial identity? Research on the determinants of judicial behavior have largely focused on the experience of advanced democracies, most notably the U.S. Considerably less attention has been paid to questions of judicial identity and performance in emerging democracies. This paper addresses this gap by turning to Kenya, a multiethnic society that has recently undergone a massive reform of the judiciary aimed at reducing corruption and bias and improving access to justice. However, the extent to which ethnicity plays a role in judicial decision-making in such contexts remains underexplored. We examine whether ethnic bias plays a role in judicial outcomes by focusing on criminal sentencing patterns in the Kenyan High Court. Using an original dataset of over 21,000 criminal appeals from 2003-2017 and for offenses ranging from petty theft to murder, we exploit the conditional random assignment of judges to criminal cases to estimate the effect of judicial ethnicity on sentencing severity. We specifically test whether the ethnicity of judges predicts rulings in favor of co-ethnic appellants. Our findings contribute to recent debates on the determinants of equitable justice in developing contexts."
+abstract = "​Do judicial outcomes depend on judicial identity? Research on the determinants of judicial behavior have largely focused on the experience of advanced democracies, most notably the U.S. Considerably less attention has been paid to questions of judicial identity and performance in emerging democracies. This paper addresses this gap by turning to Kenya, a multiethnic society that has recently undergone a massive reform of the judiciary aimed at reducing corruption and bias and improving access to justice. We specifically examine whether ethnic bias plays a role in judicial outcomes by focusing on decisions made by the Kenyan High Court. Using an original web-scraped dataset of over 17,000 criminal appeals from 2003-2017 and for offenses ranging from petty theft to murder, we exploit the conditional random assignment of judges to criminal appeals to estimate the effect of judicial ethnicity on appeal outcomes. We find that judges are more likely to favor coethnic appellants or respondents by 3-4\% points in comparison to non-coethnics. We also show that the coethnic bias becomes stronger in cases decided after the 2007 Kenyan election violence, during which inter-ethnic violence resulted in more than 1000 fatalities and hundreds of thousands displaced. Our findings contribute to recent debates on the determinants of equitable justice in developing contexts."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

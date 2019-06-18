@@ -18,7 +18,7 @@ authors = ["Leonardo Arriola", "Donghyun Danny Choi", "Matthew Gichohi"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper (Under Review)"
+publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
