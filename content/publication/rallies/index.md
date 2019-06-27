@@ -18,7 +18,7 @@ authors = ["Leonardo Arriola", "Donghyun Danny Choi", "Matthew Gichohi", "Ken Op
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper"
+publication = "Working Paper (Under Review)"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.dropbox.com/s/ezvsngcn4ntlq9x/Rallies_Full.pdf?dl=0"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Appendix", url = "https://www.dropbox.com/s/h6bfec1r7yme6ol/Rallies_SI_Appendix.pdf?dl=0"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
