@@ -36,7 +36,7 @@ weight = 5
 
 # 
 
-Welcome! I am an Assistant Professor of Political Science at the University of Pittsburgh. I received my Ph.D. in political science from the University of California, Berkeley and was a pre/postdoctoral fellow in the Identity and Conflict Lab at the University of Pennsylvania.
+Welcome! I am an Assistant Professor of Political Science at the University of Pittsburgh. I received my Ph.D. in political science from UC Berkeley and was a pre/postdoctoral fellow in the Identity and Conflict Lab at the University of Pennsylvania.
 
 My research focuses on democratic representation, political behavior, and identity politics in the developing world and beyond. My book project, **_Severed Connections: Intraparty Politics and Representation in Democratic Africa_**, investigates how political parties and the nature of candidate selection institutions influence the relationship between elected representatives and their constituents in new democracies. 
 
