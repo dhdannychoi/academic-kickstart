@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "Choi.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "dhchoi@sas.upenn.edu"
+  email = "dannychoi@pitt.edu"
   address = "#333, Perelman Center for Political Science & Economics, University of Pennsylvania"
   office_hours = """
   Monday 10:00 to 13:00\\
@@ -263,7 +263,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:dhchoi@sas.upenn.edu"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:dannychoi@pitt.edu"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
