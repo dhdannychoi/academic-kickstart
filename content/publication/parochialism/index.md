@@ -64,7 +64,7 @@ url_source = ""
 url_custom = [{name = "Supplementary Materials", url = "https://www.dropbox.com/s/9w8xhsmp0hnzsyo/CPS_PNAS_Supplementary_Information.pdf?dl=0"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1073/pnas.1820146116"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
