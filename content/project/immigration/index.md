@@ -1,5 +1,5 @@
 +++
-title = "Norms, Identities, and Immigrant Inclusion in Democratic Societies"
+title = "Norms, Social Identities, and Immigrant Inclusion in Democratic Societies"
 date = 2018-12-23T22:33:07-05:00
 draft = false
 
