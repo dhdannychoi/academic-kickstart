@@ -15,6 +15,11 @@ weight = 60
 
 +++
 
+**University of Pittsburgh**
+
+- Introduction to African Politics (PS1352/AFRCNA1030)
+- Capstone on Comparative Politics (PS1381)
+
 **University of California, Berkeley**:
 
 - Outstanding Graduate Student Instructor Award
