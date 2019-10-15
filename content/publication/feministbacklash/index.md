@@ -15,14 +15,14 @@ authors = ["Donghyun Danny Choi", "Mathias Poertner", "Nicholas Sambanis"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "​We conduct a field experiment that seeks to probe the mechanisms underpinning discrimination against immigrant minorities. Whereas existing research has investigated how in-group bias or economic interest affect discrimination against immigrants, less attention has been devoted to examining the role of gender. We hypothesize that negative stereotypes regarding gender norms among Muslims will make the perceived threat posed by immigration more salient among women rather than men in the host country. Our field intervention exposes unknowing bystanders from the host population to a brief social encounter with a confederate. We experimentally manipulate the religiosity of the confederate, her ethnic identity/immigrant status, and the nature of beliefs she espouses regarding the role of women in the household. We collect outcomes two ways: first, by observing whether bystanders provide help to the confederate in need of assistance, and second, by inviting bystanders to complete a putatively unrelated online survey that probes attitudes towards immigration. The fieldwork for this experiment is scheduled for Germany in the Summer of 2019."
+abstract = "​We probe the extent which discrimination against Muslim immigrants in democratic societies is driven by perceptions of cultural threat posed by political Islam. We hypothesize that host population stereotypes regarding conservative attitudes held by Muslims towards women and their role in society is a key mechanism underpinning anti-immigrant discrimination. We test this “feminist opposition” hypothesis using a large-scale field intervention in 23 cities across three German states, during which 3,800 unknowing bystanders were exposed to a brief social encounter with a confederate. We vary the religion/religiosity of the confederate, her ethnic identity, and the nature of beliefs she espouses regarding the role of women in the household. Our analysis shows a significant reduction in the level of discrimination towards Muslim confederates when bystanders are exposed to information revealing that the confederate holds progressive attitudes towards women. This effect is primarily driven by female bystanders, who no longer seem to discriminate against Muslim confederates vis-à-vis native confederates when they receive this information. We do not observe similar reduction in discrimination among male bystanders. Our results highlight the centrality of ideational stereotypes in structuring opposition against immigration."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)

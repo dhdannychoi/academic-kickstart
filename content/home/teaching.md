@@ -20,7 +20,7 @@ weight = 60
 - Introduction to African Politics (PS1352/AFRCNA1030)
 - Capstone on Comparative Politics (PS1381)
 
-**University of California, Berkeley**:
+**University of California, Berkeley**
 
 - Outstanding Graduate Student Instructor Award
 - PS2 Introduction to Comparative Politics (undergraduate lecture) 
