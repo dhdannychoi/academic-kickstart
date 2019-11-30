@@ -200,8 +200,8 @@ enableGitInfo = false
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal articles',  # 2
-    'Working papers',  # 3
-    'Work in progress',  # 4
+    'Representation',  # 3
+    'Identity politics',  # 4
     'Book',  # 5
     'Book section'  # 6
   ]
