@@ -1,5 +1,5 @@
 +++
-title = "​​​Linguistic Assimilation Does Not Reduce Discrimination Against Immigrants"
+title = "​​​Temperature and Outgroup Discrimination"
 date = 2019-05-03T22:33:07-05:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working Paper (Under Review)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "​Many western liberal democracies have witnessed increased bias against immigrants and opposition to multiculturalism. Prior research suggests that ethno-linguistic differences between immigrant and native populations are a key cause of that bias due to the perception of cultural threat. Linguistic assimilation has been proposed as the key mechanism to reduce bias and mitigate conflict between natives and immigrants. Using a large-scale field experiment in Germany---a country with a high influx of immigrants and refugees---we show that linguistic assimilation does not reduce bias. We find that Muslim immigrants are no less likely to be discriminated against if they appear to be linguistically assimilated. However, we also find that ethno-linguistic differences do not cause bias among German natives, suggesting that Germany may have already reached a relatively high level of tolerance to multiculturalism."
+abstract = "​High temperatures have been linked to aggression in humans and recent literature has established a connection between climate change and violent inter-group conflict. Previous studies have emphasized economic mechanisms in explaining the effect of climatic conditions on conflict. Using data from two large-scale field experiments, we show evidence of a direct causal effect of high temperatures on nonviolent inter-group conflict, proxied by discrimination in helping behavior toward an ethno-religious outgroup. In our experiments, as temperatures rise, individuals faced with a choice to provide help to strangers in every-day interactions disciminate more against ethno-religious minorities. In light of expected increases in the frequency of temperature shocks due to global warming, our findings suggest that inter-group conflict of all forms will become more prevalent in the future."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
