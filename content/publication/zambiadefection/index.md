@@ -1,6 +1,6 @@
 +++
-title = "The Business of Politics: Candidate Defection and Party Institutionalization in Africa"
-date = 2019-05-03T22:33:07-05:00
+title = "The Business of Politics: Campaign Costs and Party Switching"
+date = 2020-01-03T22:33:07-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = "Working Paper (Under Review)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Party systems in democratizing countries are often characterized by high levels of electoral volatility as parties fail to survive from one election to the next. We examine the nature of candidate recruitment in democratizing countries as a source of such volatility. We argue that new parties seek to become competitive by selecting for a particular type of candidate: one with the financial and social resources to compensate for a new party's organizational weakness. This type of candidate selection encourages volatility because the very attributes that make such candidates desirable also enable them to easily defect between parties. We corroborate the argument’s microfoundations by analyzing survey and experimental data from winning and losing parliamentary candidates in Zambia. The results shed new light on how candidate recruitment dynamics can influence party system institutionalization. The survey reveals that candidates who are business owners with associational linkages are the most likely to be recruited by parties as well as the most likely to defect between parties. A conjoint analysis that presents candidates with profiles of hypothetical parties shows that candidates prefer parties that offer particularistic benefits at odds with the regularized procedures parties typically develop over time. "
+abstract = "Party switching among legislative candidates has important implications for accountability and representation in democratizing countries. We argue that party switching is significantly influenced by campaign costs tied to the nature of clientelistic politics that persists in such countries. Where candidates are expected to personally finance their campaigns, particularly the costs associated with handouts for voters, they will be induced to affiliate with larger parties that can lower those costs through organizational support and personal inducements. Campaign costs also drive candidate selection as parties recruit candidates who can independently pay for their campaigns. We corroborate these expectations with an original survey and embedded choice experiment conducted among parliamentary candidates in Zambia. The conjoint analysis of party profiles demonstrates that candidates prefer larger parties that offer particularistic benefits, while the survey reveals that business owners are the most likely to be recruited as candidates as well as the most likely to defect."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
