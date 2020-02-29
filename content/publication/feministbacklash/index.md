@@ -1,5 +1,5 @@
 +++
-title = "​​​Feminist Backlash to Political Islam: Evidence from Social Encounters in the Field"
+title = "​​​The Hijab Penalty: Feminist Backlash to Muslim Immigration"
 date = 2020-01-03T22:33:07-05:00
 draft = false
 
@@ -22,7 +22,7 @@ publication = "Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "​We probe the extent which discrimination against Muslim immigrants in democratic societies is driven by perceptions of cultural threat posed by political Islam. We hypothesize that host population stereotypes regarding conservative attitudes held by Muslims towards women and their role in society is a key mechanism underpinning anti-immigrant discrimination. We test this “feminist opposition” hypothesis using a large-scale field intervention in 23 cities across three German states, during which 3,800 unknowing bystanders were exposed to a brief social encounter with a confederate. We vary the religion/religiosity of the confederate, her ethnic identity, and the nature of beliefs she espouses regarding the role of women in the household. Our analysis shows a significant reduction in the level of discrimination towards Muslim confederates when bystanders are exposed to information revealing that the confederate holds progressive attitudes towards women. This effect is primarily driven by female bystanders, who no longer seem to discriminate against Muslim confederates vis-à-vis native confederates when they receive this information. We do not observe similar reduction in discrimination among male bystanders. Our results highlight the centrality of ideational stereotypes in structuring opposition against immigration."
+abstract = "​Is opposition to Muslim immigration in Western societies driven by perceptions of a cultural threat? Can shared ideas between natives and immigrants mitigate discrimination against immigrants? We hypothesize that natives' behavior toward Muslim immigrants are shaped by the belief that Muslims hold conservative attitudes about women's rights. We test this hypothesis in a large-scale field experiment conducted in 25 cities across Germany, during which 3,797 unknowing bystanders were exposed to brief social encounters with confederates who revealed their ideas regarding gender roles. We find significant discrimination against Muslim women, but this discrimination is eliminated when these women signal that they share progressive gender attitudes held by natives. Through an implicit association test and a follow-up survey among German adults, we further confirm the centrality of ideational stereotypes in structuring opposition to immigration. Our findings have important implications for reducing conflict between native-immigrant communities in the era of increased cross-border migration."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
