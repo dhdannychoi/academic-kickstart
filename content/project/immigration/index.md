@@ -1,5 +1,5 @@
 +++
-title = "Norms, Social Identities, and Immigrant Inclusion in Democratic Societies"
+title = "Norms, Ideas, and Identities: Overcoming Discrimination Against Immigrants (with Mathias Poertner and Nicholas Sambanis)"
 date = 2018-12-23T22:33:07-05:00
 draft = false
 

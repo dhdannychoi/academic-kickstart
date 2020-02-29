@@ -16,9 +16,10 @@ weight = 60
 +++
 
 **University of Pittsburgh**
-
-- Introduction to African Politics (PS1352/AFRCNA1030)
-- Capstone on Comparative Politics (PS1381)
+- Comparative Identity Politics (Fall 2020, Graduate Seminar)
+- Coding and Computational Social Science (Spring 2020, Undergraduate Lecture)
+- Introduction to African Politics (Fall 2019, Undergraduate Lecture)
+- Capstone on Comparative Politics: Democratic Erosion (Fall 2019, Undergraduate Seminar)
 
 **University of California, Berkeley**
 
