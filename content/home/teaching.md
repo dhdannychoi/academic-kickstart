@@ -16,6 +16,7 @@ weight = 60
 +++
 
 **University of Pittsburgh**
+
 - Comparative Identity Politics (Fall 2020, Graduate Seminar)
 - Coding and Computational Social Science (Spring 2020, Undergraduate Lecture)
 - Introduction to African Politics (Fall 2019, Undergraduate Lecture)

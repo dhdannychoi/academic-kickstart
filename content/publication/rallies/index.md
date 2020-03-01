@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.dropbox.com/s/ezvsngcn4ntlq9x/Rallies_Full.pdf?dl=0"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Appendix", url = "https://www.dropbox.com/s/h6bfec1r7yme6ol/Rallies_SI_Appendix.pdf?dl=0"}]
+# url_custom = [{name = "Appendix", url = "https://www.dropbox.com/s/h6bfec1r7yme6ol/Rallies_SI_Appendix.pdf?dl=0"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
