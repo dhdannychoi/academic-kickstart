@@ -1,6 +1,6 @@
 +++
 title = "​​​Temperature and Outgroup Discrimination"
-date = 2020-05-03T22:33:07-05:00
+date = 2020-01-03T22:33:07-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

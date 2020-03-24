@@ -18,7 +18,7 @@ authors = ["Donghyun Danny Choi", "Mathias Poertner", "Nicholas Sambanis"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper (Under Review)"
+publication = "R & R at *Journal of Experimental Political Science*"
 publication_short = ""
 
 # Abstract and optional shortened version.

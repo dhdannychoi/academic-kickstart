@@ -18,7 +18,7 @@ authors = ["Leonardo Arriola", "Donghyun Danny Choi", "Staffan Lindberg"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Revise and resubmit at *African Affairs*"
+publication = "R & R at *African Affairs*"
 publication_short = ""
 
 # Abstract and optional shortened version.
