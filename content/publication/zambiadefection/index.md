@@ -4,7 +4,7 @@ date = 2020-01-03T22:33:07-05:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Leonardo Arriola", "Donghyun Danny Choi" , "Justine Davis", "Melanie Phillips", "Lise Rakner", "Ingvild Skage"]
+authors = ["Leonardo Arriola", "Donghyun Danny Choi" , "Justine Davis", "Melanie Phillips", "Lise Rakner"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Leonardo Arriola", "Donghyun Danny Choi" , "Justine Davis", "Melanie
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper (Under Review)"
+publication = "Under Review"
 publication_short = ""
 
 # Abstract and optional shortened version.

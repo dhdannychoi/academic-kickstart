@@ -1,5 +1,5 @@
 +++
-title = "​​​The Hijab Penalty: Feminist Backlash to Muslim Immigration"
+title = "​​​Feminist Opposition to Muslim Immigration"
 date = 2020-01-03T22:33:07-05:00
 draft = false
 
@@ -18,11 +18,11 @@ authors = ["Donghyun Danny Choi", "Mathias Poertner", "Nicholas Sambanis"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper (Under Review)"
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "​Is opposition to Muslim immigration in Western societies driven by perceptions of a cultural threat? Can shared ideas between natives and immigrants mitigate discrimination against immigrants? We hypothesize that natives' behavior toward Muslim immigrants are shaped by the belief that Muslims hold conservative attitudes about women's rights. We test this hypothesis in a large-scale field experiment conducted in 25 cities across Germany, during which 3,797 unknowing bystanders were exposed to brief social encounters with confederates who revealed their ideas regarding gender roles. We find significant discrimination against Muslim women, but this discrimination is eliminated when these women signal that they share progressive gender attitudes held by natives. Through an implicit association test and a follow-up survey among German adults, we further confirm the centrality of ideational stereotypes in structuring opposition to immigration. Our findings have important implications for reducing conflict between native-immigrant communities in the era of increased cross-border migration."
+abstract = "​"
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
